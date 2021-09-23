@@ -1,0 +1,21 @@
+{
+    "name": "icebing/encryption",
+    "description": "encryption class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "icebing",
+            "email": "1243@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload" : {
+        "psr-4": {
+            "Icebing\\Encryption\\": "src/"
+        }
+    }
+}
