@@ -1,5 +1,5 @@
 {
-    "name": "icebing/encryption",
+    "name": "iceykb/encryption",
     "description": "encryption class",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload" : {
         "psr-4": {
-            "Icebing\\Encryption\\": "src/"
+            "Iceykb\\Encryption\\": "src/"
         }
     }
 }
